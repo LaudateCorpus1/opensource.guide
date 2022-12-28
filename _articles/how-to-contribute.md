@@ -3,13 +3,6 @@ lang: en
 title: How to Contribute to Open Source
 description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
 class: contribute
-toc:
-  why-contribute-to-open-source: "Why contribute to open source?"
-  what-it-means-to-contribute: "What it means to contribute"
-  orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
-  finding-a-project-to-contribute-to: "Finding a project to contribute to"
-  how-to-submit-a-contribution: "How to submit a contribution"
-  what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -249,7 +242,7 @@ Here's a handy checklist to evaluate whether a project is good for new contribut
 
 **Project actively accepts contributions**
 
-Look at the commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
+Look at the commit activity on the main branch. On GitHub, you can see this information on a repository's homepage.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -485,7 +478,7 @@ You should usually open a pull request in the following situations:
 * Submit trivial fixes (for example, a typo, a broken link or an obvious error)
 * Start work on a contribution that was already asked for, or that you've already discussed, in an issue
 
-A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a "WIP" (Work in Progress) in the subject line. You can always add more commits later.
+A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just open it as a "draft" or mark as a "WIP" (Work in Progress) in the subject line. You can always add more commits later.
 
 If the project is on GitHub, here's how to submit a pull request:
 
